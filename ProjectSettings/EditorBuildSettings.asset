@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Start.unity
+    guid: 57df1e417250bc247976c2c0dc088efe
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone1.unity
+    guid: a94cb8f134bf81349ad016c79b629e3d
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone2.unity
+    guid: 5436c67e9267f17458b31fcdc20cd20a
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone3.unity
+    guid: 4b4b0e246fc7dbb4295a38fd03241362
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone4.unity
+    guid: 5b0c2d9ddd151ba489db19a4fb634327
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone5.unity
+    guid: 960b12f881940d84983273421bebc695
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/UIMenus.unity
+    guid: 705f1f73151a73046842d4e4ec8f514d
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/Loading.unity
+    guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 71b312b27bdc2f84aa561145b292a745
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 46d5e5d269a5abb49bd8cdffe38242f6
+  - enabled: 1
+    path: 
+    guid: 10bcccef5a9a2fb43b0093d171364b77
+  - enabled: 1
+    path: 
+    guid: 7627b19ff82102944ade0eb6dc2100a6
+  - enabled: 1
+    path: 
+    guid: ae19d36ba9d58c14ebcb7cbd36ae5bf8
+  - enabled: 1
+    path: 
+    guid: e242160a470aabe4fb41af1f086dfd1e
+  - enabled: 1
+    path: 
+    guid: 61c84dc711d152248b4019a3b4d48ace
+  - enabled: 1
+    path: 
+    guid: eb5d2cce78ad3264c8f968e6864f5748
+  - enabled: 1
+    path: 
+    guid: 692a780794aa1d14fa314f0ed20fb388
+  - enabled: 1
+    path: 
+    guid: 1912305119e055e4bb1115d9ab2dc354
+  - enabled: 1
+    path: 
+    guid: d4e9a1d3c9990f14b893320aef63970e
+  - enabled: 1
+    path: Assets/Level2.unity
+    guid: 94bd97ef61552b344b935e7db16aa3a9
+  m_configObjects: {}
